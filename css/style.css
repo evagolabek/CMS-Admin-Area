@@ -77,7 +77,7 @@ body{
 .main-color-bg{
   background-color: #418de3 !important;
   border-color: #000000 !important;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 /* header */
 #header{
@@ -100,6 +100,15 @@ body{
 
 .breadcrumb a{
   color: #333333;
+}
+
+.progress-bar{
+  background: white;
+  color: #333333;
+}
+
+.dash-box{
+  text-align: center;
 }
 
 /* Style The Dropdown Button */
